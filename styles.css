@@ -44,7 +44,7 @@ a{color:var(--emerald-800)}
 a:focus-visible,button:focus-visible,summary:focus-visible,select:focus-visible,input:focus-visible,textarea:focus-visible{
   outline:3px solid var(--gold);outline-offset:2px;border-radius:6px;
 }
-.container{width:min(1160px,92vw);margin-inline:auto}
+.container{width:min(1300px,94vw);margin-inline:auto}
 
 /* Grid & flex children default to min-width:auto, which prevents them from
    shrinking below their content's min-content width and forces the page
